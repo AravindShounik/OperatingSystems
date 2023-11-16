@@ -1,0 +1,14 @@
+Number of processes that came into the system = 100
+Number of processes that are successfully completed = 28
+Number of processes terminated = 72
+The waiting time of Process P1 is 65
+The waiting time of Process P2 is 35
+The waiting time of Process P3 is 46
+The waiting time of Process P4 is 20
+The waiting time of Process P5 is 62.5
+The waiting time of Process P6 is 53
+The waiting time of Process P7 is 0
+The waiting time of Process P8 is 69
+The waiting time of Process P9 is 59
+The waiting time of Process P10 is 90.5
+Total waiting time is 50

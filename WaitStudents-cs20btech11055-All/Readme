@@ -1,0 +1,31 @@
+This code implements three solutions using semaphores for the given Problem. 
+
+A:
+    To compile WaitStudents-cs20btech11055-A:
+        g++ -std=c++17 -o A WaitStudents-cs20btech11055-A.cpp -lpthread
+    To run A:
+        ./A
+B:
+    To compile WaitStudents-cs20btech11055-B:
+        g++ -std=c++17 -o B WaitStudents-cs20btech11055-B.cpp -lpthread
+    To run B:
+        ./B
+
+C:
+    To compile WaitStudents-cs20btech11055-C:
+        g++ -std=c++17 -o C WaitStudents-cs20btech11055-C.cpp -lpthread
+    To run C:
+        ./C
+
+The input file should be in the files input-a.txt, input-b.txt, input-c.txt respectively in the format
+
+input-a.txt:
+m l n mu
+
+input-b.txt:
+k m n l mu
+
+input-c.txt:
+k m n l mu
+
+Here, in the A Problem, the k is already taken to be 2, So, we don't have to give it in input file.

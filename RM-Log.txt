@@ -1,0 +1,352 @@
+Process P1 processing time: 20 deadline: 80 period: 80 joined the system at time t = 0
+Process P2 processing time: 30 deadline: 50 period: 50 joined the system at time t = 0
+Process P3 processing time: 25 deadline: 60 period: 60 joined the system at time t = 0
+Process P2 starts executing at time t = 0
+Process P2 is completed at time t = 30
+Process P3 starts executing at time t = 31
+Process P3 is preempted by Process P2 at time t = 50 remaining time t = 5
+Process P2 starts executing at time t = 51
+Process P2 is completed at time t = 80
+Process P3 is terminated because it's deadline is at time t = 60
+Process P3 starts executing at time t = 81
+Process P3 is preempted by Process P2 at time t = 100 remaining time t = 5
+Process P2 starts executing at time t = 101
+Process P2 is completed at time t = 130
+Process P3 is terminated because it's deadline is at time t = 120
+Process P3 starts executing at time t = 131
+Process P3 is preempted by Process P2 at time t = 150 remaining time t = 5
+Process P2 starts executing at time t = 151
+Process P2 is completed at time t = 180
+Process P3 is terminated because it's deadline is at time t = 180
+Process P1 is terminated because it's deadline is at time t = 80
+Process P1 is terminated because it's deadline is at time t = 160
+Process P3 starts executing at time t = 181
+Process P3 is preempted by Process P2 at time t = 200 remaining time t = 5
+Process P2 starts executing at time t = 201
+Process P2 is completed at time t = 230
+Process P3 resumed executing at time t = 231
+Process P3 is completed at time t = 235
+Process P1 starts executing at time t = 236
+Process P1 is terminated because it's deadline is at time t = 240
+Process P3 starts executing at time t = 241
+Process P3 is preempted by Process P2 at time t = 250 remaining time t = 15
+Process P2 starts executing at time t = 251
+Process P2 is completed at time t = 280
+Process P3 resumed executing at time t = 281
+Process P3 is completed at time t = 295
+Process P1 starts executing at time t = 296
+Process P1 is preempted by Process P2 at time t = 300 remaining time t = 15
+Process P2 starts executing at time t = 301
+Process P2 is completed at time t = 330
+Process P3 starts executing at time t = 331
+Process P3 is preempted by Process P2 at time t = 350 remaining time t = 5
+Process P2 starts executing at time t = 351
+Process P2 is completed at time t = 380
+Process P3 is terminated because it's deadline is at time t = 360
+Process P3 starts executing at time t = 381
+Process P3 is preempted by Process P2 at time t = 400 remaining time t = 5
+Process P2 starts executing at time t = 401
+Process P2 is completed at time t = 430
+Process P3 is terminated because it's deadline is at time t = 420
+Process P3 starts executing at time t = 431
+Process P3 is preempted by Process P2 at time t = 450 remaining time t = 5
+Process P2 starts executing at time t = 451
+Process P2 is completed at time t = 480
+Process P3 is terminated because it's deadline is at time t = 480
+Process P1 is terminated because it's deadline is at time t = 320
+Process P1 is terminated because it's deadline is at time t = 480
+Process P1 is terminated because it's deadline is at time t = 400
+Process P3 starts executing at time t = 481
+Process P3 is preempted by Process P2 at time t = 500 remaining time t = 5
+Process P2 starts executing at time t = 501
+Process P2 is completed at time t = 530
+Process P3 resumed executing at time t = 531
+Process P3 is completed at time t = 535
+Process P1 starts executing at time t = 536
+Process P1 is preempted by Process P3 at time t = 540 remaining time t = 15
+Process P3 starts executing at time t = 541
+Process P3 is preempted by Process P2 at time t = 550 remaining time t = 15
+Process P2 starts executing at time t = 551
+Process P2 is completed at time t = 580
+Process P3 resumed executing at time t = 581
+Process P3 is completed at time t = 595
+Process P1 is terminated because it's deadline is at time t = 560
+Process P1 starts executing at time t = 596
+Process P1 is preempted by Process P2 at time t = 600 remaining time t = 15
+Process P2 starts executing at time t = 601
+Process P2 is completed at time t = 630
+Process P3 starts executing at time t = 631
+Process P3 is preempted by Process P2 at time t = 650 remaining time t = 5
+Process P2 starts executing at time t = 651
+Process P2 is completed at time t = 680
+Process P3 is terminated because it's deadline is at time t = 660
+Process P3 starts executing at time t = 681
+Process P3 is preempted by Process P2 at time t = 700 remaining time t = 5
+Process P2 starts executing at time t = 701
+Process P2 is completed at time t = 730
+Process P3 is terminated because it's deadline is at time t = 720
+Process P3 starts executing at time t = 731
+Process P3 is preempted by Process P2 at time t = 750 remaining time t = 5
+Process P2 starts executing at time t = 751
+Process P2 is completed at time t = 780
+Process P3 is terminated because it's deadline is at time t = 780
+Process P1 is terminated because it's deadline is at time t = 640
+Process P3 starts executing at time t = 781
+Process P3 is preempted by Process P2 at time t = 800 remaining time t = 5
+Process P2 starts executing at time t = 801
+Process P2 is completed at time t = 830
+Process P3 resumed executing at time t = 831
+Process P3 is completed at time t = 835
+Process P1 is terminated because it's deadline is at time t = 720
+Process P1 is terminated because it's deadline is at time t = 800
+Process P1 starts executing at time t = 836
+Process P1 is preempted by Process P3 at time t = 840 remaining time t = 15
+Process P3 starts executing at time t = 841
+Process P3 is preempted by Process P2 at time t = 850 remaining time t = 15
+Process P2 starts executing at time t = 851
+Process P2 is completed at time t = 880
+Process P3 resumed executing at time t = 881
+Process P3 is completed at time t = 895
+Process P1 is terminated because it's deadline is at time t = 880
+Process P1 starts executing at time t = 896
+Process P1 is preempted by Process P2 at time t = 900 remaining time t = 15
+Process P2 starts executing at time t = 901
+Process P2 is completed at time t = 930
+Process P3 starts executing at time t = 931
+Process P3 is preempted by Process P2 at time t = 950 remaining time t = 5
+Process P2 starts executing at time t = 951
+Process P2 is completed at time t = 980
+Process P3 is terminated because it's deadline is at time t = 960
+Process P3 starts executing at time t = 981
+Process P3 is preempted by Process P2 at time t = 1000 remaining time t = 5
+Process P2 starts executing at time t = 1001
+Process P2 is completed at time t = 1030
+Process P3 is terminated because it's deadline is at time t = 1020
+Process P3 starts executing at time t = 1031
+Process P3 is preempted by Process P2 at time t = 1050 remaining time t = 5
+Process P2 starts executing at time t = 1051
+Process P2 is completed at time t = 1080
+Process P3 is terminated because it's deadline is at time t = 1080
+Process P1 is terminated because it's deadline is at time t = 960
+Process P1 is terminated because it's deadline is at time t = 1040
+Process P3 starts executing at time t = 1081
+Process P3 is preempted by Process P2 at time t = 1100 remaining time t = 5
+Process P2 starts executing at time t = 1101
+Process P2 is completed at time t = 1130
+Process P3 resumed executing at time t = 1131
+Process P3 is completed at time t = 1135
+Process P1 is terminated because it's deadline is at time t = 1120
+Process P1 starts executing at time t = 1136
+Process P1 is preempted by Process P3 at time t = 1140 remaining time t = 15
+Process P3 starts executing at time t = 1141
+Process P3 is preempted by Process P2 at time t = 1150 remaining time t = 15
+Process P2 starts executing at time t = 1151
+Process P2 is completed at time t = 1180
+Process P3 resumed executing at time t = 1181
+Process P3 is completed at time t = 1195
+Process P1 resumed executing at time t = 1196
+Process P1 is terminated because it's deadline is at time t = 1200
+Process P2 starts executing at time t = 1201
+Process P2 is completed at time t = 1230
+Process P3 starts executing at time t = 1231
+Process P3 is preempted by Process P2 at time t = 1250 remaining time t = 5
+Process P2 starts executing at time t = 1251
+Process P2 is completed at time t = 1280
+Process P3 is terminated because it's deadline is at time t = 1260
+Process P3 starts executing at time t = 1281
+Process P3 is preempted by Process P2 at time t = 1300 remaining time t = 5
+Process P2 starts executing at time t = 1301
+Process P2 is completed at time t = 1330
+Process P3 is terminated because it's deadline is at time t = 1320
+Process P3 starts executing at time t = 1331
+Process P3 is preempted by Process P2 at time t = 1350 remaining time t = 5
+Process P2 starts executing at time t = 1351
+Process P2 is completed at time t = 1380
+Process P3 is terminated because it's deadline is at time t = 1380
+Process P1 is terminated because it's deadline is at time t = 1280
+Process P1 is terminated because it's deadline is at time t = 1360
+Process P3 starts executing at time t = 1381
+Process P3 is preempted by Process P2 at time t = 1400 remaining time t = 5
+Process P2 starts executing at time t = 1401
+Process P2 is completed at time t = 1430
+Process P3 resumed executing at time t = 1431
+Process P3 is completed at time t = 1435
+Process P1 starts executing at time t = 1436
+Process P1 is terminated because it's deadline is at time t = 1440
+Process P3 starts executing at time t = 1441
+Process P3 is preempted by Process P2 at time t = 1450 remaining time t = 15
+Process P2 starts executing at time t = 1451
+Process P2 is completed at time t = 1480
+Process P3 resumed executing at time t = 1481
+Process P3 is completed at time t = 1495
+Process P1 starts executing at time t = 1496
+Process P1 is preempted by Process P2 at time t = 1500 remaining time t = 15
+Process P2 starts executing at time t = 1501
+Process P2 is completed at time t = 1530
+Process P3 starts executing at time t = 1531
+Process P3 is preempted by Process P2 at time t = 1550 remaining time t = 5
+Process P2 starts executing at time t = 1551
+Process P2 is completed at time t = 1580
+Process P3 is terminated because it's deadline is at time t = 1560
+Process P3 starts executing at time t = 1581
+Process P3 is preempted by Process P2 at time t = 1600 remaining time t = 5
+Process P2 starts executing at time t = 1601
+Process P2 is completed at time t = 1630
+Process P3 is terminated because it's deadline is at time t = 1620
+Process P3 starts executing at time t = 1631
+Process P3 is preempted by Process P2 at time t = 1650 remaining time t = 5
+Process P2 starts executing at time t = 1651
+Process P2 is completed at time t = 1680
+Process P3 is terminated because it's deadline is at time t = 1680
+Process P1 is terminated because it's deadline is at time t = 1520
+Process P1 is terminated because it's deadline is at time t = 1680
+Process P1 is terminated because it's deadline is at time t = 1600
+Process P3 starts executing at time t = 1681
+Process P3 is preempted by Process P2 at time t = 1700 remaining time t = 5
+Process P2 starts executing at time t = 1701
+Process P2 is completed at time t = 1730
+Process P3 resumed executing at time t = 1731
+Process P3 is completed at time t = 1735
+Process P1 starts executing at time t = 1736
+Process P1 is preempted by Process P3 at time t = 1740 remaining time t = 15
+Process P3 starts executing at time t = 1741
+Process P3 is preempted by Process P2 at time t = 1750 remaining time t = 15
+Process P2 starts executing at time t = 1751
+Process P2 is completed at time t = 1780
+Process P3 resumed executing at time t = 1781
+Process P3 is completed at time t = 1795
+Process P1 is terminated because it's deadline is at time t = 1760
+Process P1 starts executing at time t = 1796
+Process P1 is preempted by Process P2 at time t = 1800 remaining time t = 15
+Process P2 starts executing at time t = 1801
+Process P2 is completed at time t = 1830
+Process P3 starts executing at time t = 1831
+Process P3 is preempted by Process P2 at time t = 1850 remaining time t = 5
+Process P2 starts executing at time t = 1851
+Process P2 is completed at time t = 1880
+Process P3 is terminated because it's deadline is at time t = 1860
+Process P3 starts executing at time t = 1881
+Process P3 is preempted by Process P2 at time t = 1900 remaining time t = 5
+Process P2 starts executing at time t = 1901
+Process P2 is completed at time t = 1930
+Process P3 is terminated because it's deadline is at time t = 1920
+Process P3 starts executing at time t = 1931
+Process P3 is preempted by Process P2 at time t = 1950 remaining time t = 5
+Process P2 starts executing at time t = 1951
+Process P2 is completed at time t = 1980
+Process P3 is terminated because it's deadline is at time t = 1980
+Process P1 is terminated because it's deadline is at time t = 1840
+Process P3 starts executing at time t = 1981
+Process P3 is completed at time t = 2005
+Process P1 is terminated because it's deadline is at time t = 1920
+Process P1 is terminated because it's deadline is at time t = 2000
+Process P1 starts executing at time t = 2006
+Process P1 is completed at time t = 2025
+CPU is idle till time t = 2039
+Process P3 starts executing at time t = 2040
+Process P3 is completed at time t = 2065
+CPU is idle till time t = 2079
+Process P1 starts executing at time t = 2080
+Process P1 is completed at time t = 2100
+Process P3 starts executing at time t = 2101
+Process P3 is completed at time t = 2125
+CPU is idle till time t = 2159
+Process P3 starts executing at time t = 2160
+Process P3 is completed at time t = 2185
+Process P1 starts executing at time t = 2186
+Process P1 is completed at time t = 2205
+CPU is idle till time t = 2219
+Process P3 starts executing at time t = 2220
+Process P3 is completed at time t = 2245
+Process P1 starts executing at time t = 2246
+Process P1 is completed at time t = 2265
+CPU is idle till time t = 2279
+Process P3 starts executing at time t = 2280
+Process P3 is completed at time t = 2305
+CPU is idle till time t = 2319
+Process P1 starts executing at time t = 2320
+Process P1 is completed at time t = 2340
+Process P3 starts executing at time t = 2341
+Process P3 is completed at time t = 2365
+CPU is idle till time t = 2399
+Process P3 starts executing at time t = 2400
+Process P3 is completed at time t = 2425
+Process P1 starts executing at time t = 2426
+Process P1 is completed at time t = 2445
+CPU is idle till time t = 2459
+Process P3 starts executing at time t = 2460
+Process P3 is completed at time t = 2485
+Process P1 starts executing at time t = 2486
+Process P1 is completed at time t = 2505
+CPU is idle till time t = 2519
+Process P3 starts executing at time t = 2520
+Process P3 is completed at time t = 2545
+CPU is idle till time t = 2559
+Process P1 starts executing at time t = 2560
+Process P1 is completed at time t = 2580
+Process P3 starts executing at time t = 2581
+Process P3 is completed at time t = 2605
+CPU is idle till time t = 2639
+Process P3 starts executing at time t = 2640
+Process P3 is completed at time t = 2665
+Process P1 starts executing at time t = 2666
+Process P1 is completed at time t = 2685
+CPU is idle till time t = 2699
+Process P3 starts executing at time t = 2700
+Process P3 is completed at time t = 2725
+Process P1 starts executing at time t = 2726
+Process P1 is completed at time t = 2745
+CPU is idle till time t = 2759
+Process P3 starts executing at time t = 2760
+Process P3 is completed at time t = 2785
+CPU is idle till time t = 2799
+Process P1 starts executing at time t = 2800
+Process P1 is completed at time t = 2820
+Process P3 starts executing at time t = 2821
+Process P3 is completed at time t = 2845
+CPU is idle till time t = 2879
+Process P3 starts executing at time t = 2880
+Process P3 is completed at time t = 2905
+Process P1 starts executing at time t = 2906
+Process P1 is completed at time t = 2925
+CPU is idle till time t = 2939
+Process P3 starts executing at time t = 2940
+Process P3 is completed at time t = 2965
+Process P1 starts executing at time t = 2966
+Process P1 is completed at time t = 2985
+CPU is idle till time t = 3039
+Process P1 starts executing at time t = 3040
+Process P1 is completed at time t = 3060
+CPU is idle till time t = 3119
+Process P1 starts executing at time t = 3120
+Process P1 is completed at time t = 3140
+CPU is idle till time t = 3199
+Process P1 starts executing at time t = 3200
+Process P1 is completed at time t = 3220
+CPU is idle till time t = 3279
+Process P1 starts executing at time t = 3280
+Process P1 is completed at time t = 3300
+CPU is idle till time t = 3359
+Process P1 starts executing at time t = 3360
+Process P1 is completed at time t = 3380
+CPU is idle till time t = 3439
+Process P1 starts executing at time t = 3440
+Process P1 is completed at time t = 3460
+CPU is idle till time t = 3519
+Process P1 starts executing at time t = 3520
+Process P1 is completed at time t = 3540
+CPU is idle till time t = 3599
+Process P1 starts executing at time t = 3600
+Process P1 is completed at time t = 3620
+CPU is idle till time t = 3679
+Process P1 starts executing at time t = 3680
+Process P1 is completed at time t = 3700
+CPU is idle till time t = 3759
+Process P1 starts executing at time t = 3760
+Process P1 is completed at time t = 3780
+CPU is idle till time t = 3839
+Process P1 starts executing at time t = 3840
+Process P1 is completed at time t = 3860
+CPU is idle till time t = 3919
+Process P1 starts executing at time t = 3920
+Process P1 is completed at time t = 3940

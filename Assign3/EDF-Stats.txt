@@ -1,0 +1,6 @@
+Number of processes that came into the system = 20
+Number of processes that are successfully completed = 17
+Number of processes terminated = 3
+The waiting time of Process P1 is 25.5
+The waiting time of Process P2 is 11
+Total waiting time is 18.25
